@@ -1,3 +1,3 @@
-# Regression-Analysis-of-ANOVA
+# Regression-Analysis-of-ANOVA (Minitab)
 -	Use two-way ANOVA to examine the linear relationship between two categorical predictors: geographical region, industry sector of the most labor and gross regional product of different provinces in China (self-designed topic)
 -	Focus on interaction effect, identify non-constant variance by Levene’s test and handle it by WLS. Choose the best subset model by comparing AICc. Identify significant outliers and leverage points by Cook’s distance, and adjust the model back and forth. Ended up with seeing little difference among leading sectors by Tukey pairwise comparisons
